@@ -1,0 +1,15 @@
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/package_run_dependencies/my_urdf_sim
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/parent_prefix_path/my_urdf_sim
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/ament_prefix_path.sh
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/ament_prefix_path.dsv
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/path.sh
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/path.dsv
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.bash
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.sh
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.zsh
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.dsv
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/package.dsv
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/packages/my_urdf_sim
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/cmake/my_urdf_simConfig.cmake
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/cmake/my_urdf_simConfig-version.cmake
+/home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/package.xml

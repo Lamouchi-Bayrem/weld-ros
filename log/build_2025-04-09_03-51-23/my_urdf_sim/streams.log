@@ -1,0 +1,52 @@
+[0.016s] Invoking command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/bayrem/Desktop/Welding docs/my_urdf_sim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bayrem/Desktop/Welding docs/install/my_urdf_sim
+[0.115s] -- The C compiler identification is GNU 13.3.0
+[0.211s] -- The CXX compiler identification is GNU 13.3.0
+[0.243s] -- Detecting C compiler ABI info
+[0.411s] -- Detecting C compiler ABI info - done
+[0.427s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.427s] -- Detecting C compile features
+[0.428s] -- Detecting C compile features - done
+[0.446s] -- Detecting CXX compiler ABI info
+[0.635s] -- Detecting CXX compiler ABI info - done
+[0.651s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.651s] -- Detecting CXX compile features
+[0.652s] -- Detecting CXX compile features - done
+[0.661s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.937s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.055s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.168s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.384s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.384s] -- Configured cppcheck include dirs: 
+[1.384s] -- Configured cppcheck exclude dirs and/or files: 
+[1.387s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.387s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.393s] -- Added test 'lint_cmake' to check CMake code style
+[1.397s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.418s] -- Added test 'uncrustify' to check C / C++ code style
+[1.418s] -- Configured uncrustify additional arguments: 
+[1.422s] -- Added test 'xmllint' to check XML markup files
+[1.426s] -- Configuring done (1.4s)
+[1.432s] -- Generating done (0.0s)
+[1.435s] -- Build files have been written to: /home/bayrem/Desktop/Welding docs/build/my_urdf_sim
+[1.444s] Invoked command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/bayrem/Desktop/Welding docs/my_urdf_sim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bayrem/Desktop/Welding docs/install/my_urdf_sim
+[1.446s] Invoking command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/bayrem/Desktop/Welding docs/build/my_urdf_sim -- -j12 -l12
+[1.531s] Invoked command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/bayrem/Desktop/Welding docs/build/my_urdf_sim -- -j12 -l12
+[1.552s] Invoking command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/bayrem/Desktop/Welding docs/build/my_urdf_sim
+[1.567s] -- Install configuration: ""
+[1.567s] -- Execute custom install script
+[1.568s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/package_run_dependencies/my_urdf_sim
+[1.587s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/parent_prefix_path/my_urdf_sim
+[1.605s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/ament_prefix_path.sh
+[1.624s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/ament_prefix_path.dsv
+[1.642s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/path.sh
+[1.662s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/environment/path.dsv
+[1.680s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.bash
+[1.698s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.sh
+[1.717s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.zsh
+[1.735s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/local_setup.dsv
+[1.756s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/package.dsv
+[1.775s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/ament_index/resource_index/packages/my_urdf_sim
+[1.794s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/cmake/my_urdf_simConfig.cmake
+[1.813s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/cmake/my_urdf_simConfig-version.cmake
+[1.831s] -- Symlinking: /home/bayrem/Desktop/Welding docs/install/my_urdf_sim/share/my_urdf_sim/package.xml
+[1.852s] Invoked command in '/home/bayrem/Desktop/Welding docs/build/my_urdf_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/bayrem/Desktop/Welding docs/build/my_urdf_sim

@@ -1,0 +1,9 @@
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/uninstall.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/my_urdf_sim_uninstall.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/test.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/edit_cache.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/rebuild_cache.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/list_install_components.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/install.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/install/local.dir
+/home/bayrem/Desktop/Welding docs/build/my_urdf_sim/CMakeFiles/install/strip.dir
